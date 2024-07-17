@@ -1,0 +1,12 @@
+names:
+  0: elbow positive
+  1: fingers positive
+  2: forearm fracture
+  3: humerus fracture
+  4: humerus
+  5: shoulder fracture
+  6: wrist positive
+nc: 7
+path: ''
+train: C:/Users/Baran/Desktop/yolov8/yolov8/data/images/train
+val: C:/Users/Baran/Desktop/yolov8/yolov8/data/images/val
